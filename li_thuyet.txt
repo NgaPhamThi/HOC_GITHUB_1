@@ -1,0 +1,16 @@
+
+- repo: Từ "repo" là viết tắt của "repository" trong ngữ cảnh công
+ nghệ thông tin và quản lý mã nguồn. Một repository là một nơi lưu
+trữ hoặc kho lưu trữ chứa mã nguồn, tài liệu, dự án phần mềm hoặc 
+dữ liệu khác. Repositories thường được sử dụng trong quản lý mã nguồn
+ và phát triển phần mềm để theo dõi các phiên bản của mã nguồn, 
+ quản lý thay đổi, và làm việc cùng nhau trong nhóm phát triển. 
+- Tạo commit: Khi bạn đã thay đổi mã nguồn trong một repository,
+  bạn sẽ thực hiện một commit để lưu trữ các thay đổi đó.
+  Trong quá trình commit, bạn thường cung cấp một thông điệp commit mô
+  tả ngắn gọn về những gì đã thay đổi trong commit đó.
+- Branch: là một phiên bản phân nhánh của một repository (dự án lưu trữ trên GitHub).
+Cụ thể, một branch là một bản sao của codebase (mã nguồn) chính của dự án, và
+ nó cho phép bạn làm việc trên mã nguồn đó mà không ảnh hưởng đến codebase
+chính cho đến khi bạn quyết định thực hiện các thay đổi từ branch vào codebase
+chính thông qua quá trình gọi là "merge."
